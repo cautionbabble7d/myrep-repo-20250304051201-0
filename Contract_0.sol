@@ -1,5 +1,4 @@
-6
-    function getMessage() public view returns (string) {
+7    function getMessage() public view returns (string) {
         return message;
     }
 
