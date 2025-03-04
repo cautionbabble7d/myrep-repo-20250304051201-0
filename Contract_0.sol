@@ -1,5 +1,4 @@
-8        return message;
-    }
+9    }
 
     function getRandomNumber() public view returns (uint256) {
         return randomNumber;
